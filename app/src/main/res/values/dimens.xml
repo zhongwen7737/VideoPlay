@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="distance5">5dp</dimen>
+    <dimen name="distance10">10dp</dimen>
+    <dimen name="distance15">15dp</dimen>
+    <dimen name="distance20">20dp</dimen>
+    <dimen name="distance25">25dp</dimen>
+    <dimen name="distance30">30dp</dimen>
+    <dimen name="distance35">35dp</dimen>
+    <dimen name="distance60">60dp</dimen>
+    <dimen name="distance50">50dp</dimen>
+    <dimen name="distance55">55dp</dimen>
+    <dimen name="distance65">65dp</dimen>
+    <dimen name="text12">12sp</dimen>
+    <dimen name="text13">13sp</dimen>
+    <dimen name="text14">14sp</dimen>
+    <dimen name="text15">15sp</dimen>
+    <dimen name="text16">16sp</dimen>
+    <dimen name="text17">17sp</dimen>
+    <dimen name="text18">18sp</dimen>
+    <dimen name="text19">19sp</dimen>
+    <dimen name="text20">20sp</dimen>
+    <dimen name="text22">22sp</dimen>
+    <dimen name="distanse160">160dp</dimen>
+    <dimen name="distanse120">120dp</dimen>
+    <dimen name="distanse130">130dp</dimen>
+    <dimen name="distanse140">140dp</dimen>
+    <dimen name="distanse155">155dp</dimen>
+    <dimen name="distanse180">180dp</dimen>
+    <dimen name="distanse3">3dp</dimen>
+    <dimen name="height_top_bar">45dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="size_avatar">50dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="distanse2">2dp</dimen>
+    <dimen name="distanse1">1dp</dimen>
+    <dimen name="textsize10">10sp</dimen>
+    <dimen name="textsize20">20sp</dimen>
+    <dimen name="textsize16">16sp</dimen>
+    <dimen name="textsizetitle">20sp</dimen>
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="footer_height">90dp</dimen>
+    <dimen name="footer_padding">10dp</dimen>
+    <dimen name="headerpicsize">65dp</dimen>
+    <dimen name="margin_parent_left">10dp</dimen>
+    <dimen name="margin_parent_right">10dp</dimen>
+    <dimen name="margin_view_top_big">15dp</dimen>
+
+    <dimen name="other_item_height">55dp</dimen>
+
+</resources>
